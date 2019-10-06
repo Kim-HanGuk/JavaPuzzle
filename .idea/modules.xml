@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaPuzzle.iml" filepath="$PROJECT_DIR$/JavaPuzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pz9_01/pz9_01.iml" filepath="$PROJECT_DIR$/pz9_01/pz9_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pz9_02/pz9_02.iml" filepath="$PROJECT_DIR$/pz9_02/pz9_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pz9_03/pz9_03.iml" filepath="$PROJECT_DIR$/pz9_03/pz9_03.iml" />
+    </modules>
+  </component>
+</project>
